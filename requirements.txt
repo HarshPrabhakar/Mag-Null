@@ -1,2 +1,11 @@
-﻿# requirements.txt
-
+﻿PyQt6==6.7.0
+PyQtGraph==0.13.7
+numpy==1.26.4
+scipy==1.13.0
+torch==2.3.0
+torchvision==0.18.0
+SQLAlchemy==2.0.30
+reportlab==4.2.0
+pyyaml==6.0.1
+pytest==8.2.0
+pytest-qt==4.4.0
