@@ -3,6 +3,7 @@
 # Application entry point — boots the desktop window and pipeline
 
 import sys
+import os
 import json
 import threading
 from PyQt6.QtWidgets import (
@@ -12,6 +13,7 @@ from PyQt6.QtWidgets import (
 )
 from PyQt6.QtCore  import Qt, QTimer, pyqtSignal, QObject
 from PyQt6.QtGui   import QFont, QColor
+
 
 from app.core.pipeline import Pipeline
 
