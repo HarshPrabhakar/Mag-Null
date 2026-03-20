@@ -1,0 +1,17 @@
+{
+  "operator": {
+    "password_hash": "f27afc3f50b6adf007efa9d26dbc03d175771c07844b787b22bcb432645c8848",
+    "role": "operator",
+    "display": "Operator"
+  },
+  "analyst": {
+    "password_hash": "d6442692f9557f9aa62497b0c0199ba757deecb0c755b80bf0df81d8d7ecfaf3",
+    "role": "analyst",
+    "display": "Analyst"
+  },
+  "admin": {
+    "password_hash": "08f182b22d2d82c18822d64a96b63bc320e7468928288487326e8d26fbd3d0d9",
+    "role": "admin",
+    "display": "Administrator"
+  }
+}
