@@ -7,7 +7,7 @@ from PyQt6.QtWidgets import (
     QLineEdit, QPushButton, QFrame, QWidget
 )
 from PyQt6.QtCore import Qt, QTimer
-from PyQt6.QtGui  import QFont, QColor
+from PyQt6.QtGui  import QFont, QColor  
 
 C_BG    = "#04070d"
 C_BG1   = "#070d17"
